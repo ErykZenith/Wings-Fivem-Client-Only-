@@ -2,5 +2,4 @@
 enjoy
 
 # Preview
-![!\[\](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-](https://cdn.discordapp.com/attachments/1159100888049266768/1209454295498629130/image.png?ex=65e6fb16&is=65d48616&hm=d55a26699678a28f229d512a217395518e7319d021dd98432eca0f0086c00f2e&)
+[![Watch the video](https://cdn.discordapp.com/attachments/1228947629828739126/1247097143735357531/33.png?ex=665ec939&is=665d77b9&hm=ff48701a087a40492a90bfac8b3aa32772086da295b5094733934d8fdf8dc767&)](https://streamable.com/e/mgv9n4?)
